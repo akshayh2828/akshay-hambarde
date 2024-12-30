@@ -1,0 +1,7 @@
+package inetrview;
+
+public class Student {
+	private int id;
+	private String name;
+	
+}

@@ -1,0 +1,12 @@
+package number;
+
+import java.util.Scanner;
+
+public class PrimeNumber {
+
+	public static void main(String[] args) {
+				int number = 123;
+		String strNum = String.valueOf(number);
+		System.out.println(strNum);
+	}
+}

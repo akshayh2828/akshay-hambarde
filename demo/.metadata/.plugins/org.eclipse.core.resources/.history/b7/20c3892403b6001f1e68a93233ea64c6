@@ -1,0 +1,14 @@
+package map;
+
+import java.util.TreeMap;
+
+public class TreaaMap
+{
+	public static void main(String[] args) {
+//		TreeMap<String, Integer>tm=new TreeMap<String, Integer>();
+//		tm.put("santosh",1);
+//		tm.put("akshay",2);
+//	    System.out.println(tm);
+	}
+
+}

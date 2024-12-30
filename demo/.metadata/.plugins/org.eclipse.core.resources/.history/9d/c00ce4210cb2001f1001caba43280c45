@@ -1,0 +1,8 @@
+package inetrview;
+
+public class Addresss {
+	private int pincode;
+	private String city;
+	
+
+}

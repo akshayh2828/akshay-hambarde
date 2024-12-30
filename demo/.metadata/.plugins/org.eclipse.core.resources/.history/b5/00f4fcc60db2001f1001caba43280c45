@@ -1,0 +1,13 @@
+package inetrview;
+
+public class Test
+{
+	public static void main(String[] args) 
+	{
+		Addresss add=new Addresss(12182, "santosh");
+		System.out.println(add.getPincode(73653)+add.setPincode(7652));
+		Student std=new Student(1, "akshay", new Addresss(162516, "santosh"));
+		System.out.println(std);
+	}
+
+}
